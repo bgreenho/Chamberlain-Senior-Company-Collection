@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,,
-program,Program,
-ballet,Ballet,
-choreographer,Choreographer,
-role,Role,true
-dancers,Dancers,true
-performance date,Performance Date
-age,Age
-description,Description
+program,Program,,
+ballet,Ballet,,
+choreographer,Choreographer,,
+role,Role,true,
+dancers,Dancers,true,
+performance date,Performance Date,,
+age,Age,,
+description,Description,,
 costume,Costume,,
-type,Type,
-format,Format,
+type,Type,,
+format,Format,,
