@@ -1,7 +1,10 @@
 field,index,display
 title,true,true
+ballet,true,true
 date,true,true
-creator,true,false
+choreographer,true,true
+role,true,false
+dancers,true,false
+age,true,false
 description,true,true
-subject,true,true
-location,true,false
+costume,true,false
