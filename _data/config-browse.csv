@@ -1,5 +1,8 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+performance date,Performance Date,,,Performace Date
+ballet,Ballet,,,Ballet
+choreographer,Choreographer,,,Choreographer
+role,Role,true,,,
+dancers,,true,ture,,
+description,,,true,
+costume,,,true,
