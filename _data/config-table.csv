@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+ballet,Ballet
+role,Role
 description,Description
-subject,Subjects
+age,Age
