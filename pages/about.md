@@ -12,16 +12,12 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Chamberlain Senior Company Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Chamberlain Senior Company collection is a repository of photos and videos showing ballets I performed as a member of the Chamberlain Performing Arts Senior Company during the 2013-2017 seasons. These photos and videos show on- and off-stage moments from ballets performed during the three major productions of each season: The Nutcracker, the spring show, and the end-of-season recital. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This collection is meant to both visually represent my ballet career from 2013-2017 but also preserve and spark the memories of being a Chamberlain Performing Arts Senior Company member for that four-year period.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
