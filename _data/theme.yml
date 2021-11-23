@@ -58,7 +58,7 @@ year-nav-increment: 1 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,program,ballet,choreographer,role,dancers,performance data,age,description,costume,type,format"
+metadata-export-fields: "title,program,ballet,choreographer,role,dancers,performancedata,age,description,costume,type,format"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "program,ballet,choreographer,dancers,costume"
 
@@ -81,7 +81,7 @@ bootswatch: lux # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: "#ffffff"
 link-color: "#17a2b8"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
