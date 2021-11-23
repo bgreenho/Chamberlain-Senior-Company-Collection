@@ -1,7 +1,7 @@
 field,index,display
 title,true,true
 ballet,true,true
-date,true,true
+performancedate,true,true
 choreographer,true,true
 role,true,false
 dancers,true,false
