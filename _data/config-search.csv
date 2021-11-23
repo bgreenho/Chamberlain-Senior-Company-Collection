@@ -8,3 +8,4 @@ dancers,true,false
 age,true,false
 description,true,true
 costume,true,false
+program,true,true
