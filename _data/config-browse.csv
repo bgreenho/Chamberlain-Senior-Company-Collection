@@ -1,8 +1,9 @@
 field,display_name,btn,hidden,sort_name
-performance date,Performance Date,,,Performace Date
+performancedate,Performance Date,,,Performace Date
 ballet,Ballet,,,Ballet
 choreographer,Choreographer,,,Choreographer
 role,Role,true,,
 dancers,,true,ture,
 description,,,true,
 costume,,,true,
+program, Program,,true,
